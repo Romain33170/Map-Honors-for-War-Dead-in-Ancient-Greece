@@ -11,5 +11,6 @@
  Voici à quoi ressemble ma carte après la mise en page :
  
 <!-- Images -->
-![alt text](<carte hickel romain capture-1.png>)
+![carte hickel romain capture](https://github.com/user-attachments/assets/5a446c2e-6483-4d2b-84e2-9cc5a6dc65db)
+
 
